@@ -43,11 +43,11 @@ import (
 	_ "github.com/baidubce/bce-sdk-go/services/scs"
 	_ "github.com/baidubce/bce-sdk-go/services/sms"
 	_ "github.com/baidubce/bce-sdk-go/services/sts"
-	_ "github.com/baidubce/bce-sdk-go/services/vca"
 	_ "github.com/baidubce/bce-sdk-go/services/vcr"
 	_ "github.com/baidubce/bce-sdk-go/services/vpc"
 	_ "github.com/baidubce/bce-sdk-go/services/vpn"
 	_ "github.com/baidubce/bce-sdk-go/util"
 	_ "github.com/baidubce/bce-sdk-go/util/crypto"
 	_ "github.com/baidubce/bce-sdk-go/util/log"
+	_ "github.com/basebytes/bce-sdk-go/services/vca"
 )
