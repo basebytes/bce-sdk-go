@@ -86,3 +86,10 @@ func NewUUID() string {
 func NewRequestId() string {
 	return NewUUID()
 }
+func CheckStringLength(str string, min, max int) bool {
+	return CheckIntRange(len(str), min, max)
+}
+
+func CheckIntRange(value int, min, max int) bool {
+	return value >= min && value <= max
+}

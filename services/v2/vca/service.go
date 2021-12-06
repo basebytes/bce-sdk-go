@@ -4,7 +4,7 @@
 package vca
 
 import (
-	"github.com/basebytes/bce-sdk-go/auth"
+	"github.com/baidubce/bce-sdk-go/auth"
 	"github.com/basebytes/bce-sdk-go/bce"
 	"github.com/basebytes/bce-sdk-go/services/v2/vca/client"
 )

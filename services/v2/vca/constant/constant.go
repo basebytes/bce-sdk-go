@@ -8,7 +8,7 @@ import (
 )
 
 const (
-	UriPrefix = bce.UriPrefix + "v2"
+	UriPrefix = bce.URI_PREFIX + "v2"
 
 	MediaUri  = "/media"
 	StreamUri = "/stream"
