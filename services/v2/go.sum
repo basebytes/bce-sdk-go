@@ -1,2 +1,2 @@
-github.com/baidubce/bce-sdk-go v0.9.99 h1:hR5OP95upKsrwJMBdKr/Qr9fZvnY+HOZEdscuox/0KM=
-github.com/baidubce/bce-sdk-go v0.9.99/go.mod h1:zbYJMQwE4IZuyrJiFO8tO8NbtYiKTFTbwh4eIsqjVdg=
+github.com/basebytes/bce-sdk-go v0.0.1-alpha h1:9sVLiPYyzw1Alt+W4sqN+lIr7fkOWKYfTJZknGoiBIY=
+github.com/basebytes/bce-sdk-go v0.0.1-alpha/go.mod h1:bB0i7Zx4x2oEU1lANdA2gZtP/Ig77eqWoAx4Cmi3zjY=
