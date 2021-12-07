@@ -4,7 +4,7 @@ go 1.16
 
 require (
 	github.com/baidubce/bce-sdk-go v0.9.99
-	github.com/basebytes/bce-sdk-go v0.0.1-alpha
+	github.com/basebytes/bce-sdk-go v0.0.2
 )
 
 replace github.com/baidubce/bce-sdk-go v0.9.99 => ../../
