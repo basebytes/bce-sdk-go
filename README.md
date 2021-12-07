@@ -2,7 +2,7 @@
 
 # 概述
 
-增加百度云Go语言版的开发者工具包（SDK）中[VCA](https://cloud.baidu.com/doc/VCA/index.html)v2版本的大部分接口。
+增加百度云Go语言版的开发者工具包（SDK）中[VCA](https://cloud.baidu.com/doc/VCA/index.html) v2版本的大部分接口。
 
 # 安装SDK工具包
 
